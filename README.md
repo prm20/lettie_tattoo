@@ -1,2 +1,2 @@
-# letty_tattoo
+# lettie_tattoo
 Portfolio/booking website for Letty
